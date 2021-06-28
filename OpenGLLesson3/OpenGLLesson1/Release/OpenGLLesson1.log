@@ -1,0 +1,22 @@
+﻿  Source3.cpp
+C:\Users\Настя\source\repos\OpenGLLesson1\OpenGLLesson1\Source3.cpp(224,7): warning C4838: Преобразование из "int" в "BYTE" требует сужающего преобразования.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glViewport@16.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glClear@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glEnable@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glVertex3f@12.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glEnd@0.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glMatrixMode@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__wglCreateContext@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glLoadIdentity@0.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glHint@8.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glBegin@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glClearColor@16.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__wglDeleteContext@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glTranslatef@12.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glClearDepth@8.
+Source3.obj : error LNK2001: неразрешенный внешний символ _gluPerspective@32.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__wglMakeCurrent@8.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glShadeModel@4.
+Source3.obj : error LNK2001: неразрешенный внешний символ __imp__glDepthFunc@4.
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ _main.
+C:\Users\Настя\source\repos\OpenGLLesson1\Release\OpenGLLesson1.exe : fatal error LNK1120: неразрешенных внешних элементов: 19

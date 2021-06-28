@@ -1,0 +1,4 @@
+﻿  Urok4.cpp
+C:\Users\Настя\Documents\GitHub\opengl-lessons\OpenGLLesson4\OpenGLLesson1\Urok4.cpp(242,7): warning C4838: Преобразование из "int" в "BYTE" требует сужающего преобразования.
+C:\Users\Настя\Documents\GitHub\opengl-lessons\OpenGLLesson4\OpenGLLesson1\Urok4.cpp(424,16): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  OpenGLLesson1.vcxproj -> C:\Users\Настя\Documents\GitHub\opengl-lessons\OpenGLLesson4\x64\Debug\OpenGLLesson1.exe
